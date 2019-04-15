@@ -1,0 +1,10 @@
+C:\Users\shani\source\repos\AprilTA\AprilTA\bin\Debug\AprilTA.exe.config
+C:\Users\shani\source\repos\AprilTA\AprilTA\bin\Debug\AprilTA.exe
+C:\Users\shani\source\repos\AprilTA\AprilTA\bin\Debug\AprilTA.pdb
+C:\Users\shani\source\repos\AprilTA\AprilTA\bin\Debug\WebDriver.dll
+C:\Users\shani\source\repos\AprilTA\AprilTA\bin\Debug\WebDriver.xml
+C:\Users\shani\source\repos\AprilTA\AprilTA\obj\Debug\AprilTA.csprojAssemblyReference.cache
+C:\Users\shani\source\repos\AprilTA\AprilTA\obj\Debug\AprilTA.csproj.CoreCompileInputs.cache
+C:\Users\shani\source\repos\AprilTA\AprilTA\obj\Debug\AprilTA.csproj.CopyComplete
+C:\Users\shani\source\repos\AprilTA\AprilTA\obj\Debug\AprilTA.exe
+C:\Users\shani\source\repos\AprilTA\AprilTA\obj\Debug\AprilTA.pdb
